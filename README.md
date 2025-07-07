@@ -1,8 +1,15 @@
-# TaskFlow - Modern Todo Application
+# ✒️ TaskFlow - Modern Todo Application
 
 A beautiful, feature-rich todo application built with React, TypeScript, and Tailwind CSS. TaskFlow helps you organize your tasks with priority levels, due dates, and an intuitive interface designed for productivity.
 
-![TaskFlow Preview](https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=800&h=400&fit=crop)
+---
+
+<img src="./Screenshot.png" alt="App Screenshot"  />
+
+
+🔗 **Live Demo**: [https://startling-souffle-5f1ba5.netlify.app](https://startling-souffle-5f1ba5.netlify.app/)
+
+---
 
 ## ✨ Features
 
@@ -40,8 +47,9 @@ A beautiful, feature-rich todo application built with React, TypeScript, and Tai
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/taskflow-todo.git
-   cd taskflow-todo
+   git clone https://github.com/abhishekkalme/TaskFlow-Modern-Todo-Application.git
+
+   cd TaskFlow-Modern-Todo-Application
    ```
 
 2. **Install dependencies**
@@ -201,9 +209,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues:** [GitHub Issues](https://github.com/yourusername/taskflow-todo/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/yourusername/taskflow-todo/discussions)
-- **Email:** your.email@example.com
+- **Issues:** [GitHub Issues](https://github.com/abhishekkalme/TaskFlow-Modern-Todo-Application/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/abhishekkalme/TaskFlow-Modern-Todo-Application/discussions)
+- **Email:** abhishekkalme0@gmail.com
 
 ---
 
@@ -211,6 +219,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ⭐ **Star this repository if TaskFlow helps you stay organized!**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/taskflow-todo?style=social)](https://github.com/yourusername/taskflow-todo/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/taskflow-todo?style=social)](https://github.com/yourusername/taskflow-todo/network)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/taskflow-todo)](https://github.com/yourusername/taskflow-todo/issues)#
+[![GitHub stars](https://img.shields.io/github/stars/abhishekkalme/TaskFlow-Modern-Todo-Application?style=social)](https://github.com/abhishekkalme/TaskFlow-Modern-Todo-Application/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/abhishekkalme/TaskFlow-Modern-Todo-Application?style=social)](https://github.com/abhishekkalme/TaskFlow-Modern-Todo-Application/network)
+[![GitHub issues](https://img.shields.io/github/issues/abhishekkalme/TaskFlow-Modern-Todo-Application)](https://github.com/abhishekkalme/TaskFlow-Modern-Todo-Application/issues)
